@@ -1,4 +1,4 @@
-<svg width="110" height="110">
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="110">
   <rect x="0px" y="0px" width="50" height="10" fill="black" />
   <rect x="0px" y="20px" width="50" height="10" fill="black" />
   <rect x="0px" y="40px" width="50" height="10" fill="black" />
