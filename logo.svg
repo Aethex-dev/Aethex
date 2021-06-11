@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="110" height="110">
-  <rect x="0px" y="0px" width="50" height="10" fill="black" />
-  <rect x="0px" y="20px" width="50" height="10" fill="black" />
-  <rect x="0px" y="40px" width="50" height="10" fill="black" />
+  <rect x="0px" y="0px" width="50" height="10" fill="#ff5555" />
+  <rect x="0px" y="20px" width="50" height="10" fill="#ff5555" />
+  <rect x="0px" y="40px" width="50" height="10" fill="#ff5555" />
   
-  <rect x="60px" y="0px" width="10" height="50" fill="black" />
-  <rect x="80px" y="0px" width="10" height="50" fill="black" />
-  <rect x="100px" y="0px" width="10" height="50" fill="black" />
+  <rect x="60px" y="0px" width="10" height="50" fill="#ff5555" />
+  <rect x="80px" y="0px" width="10" height="50" fill="#ff5555" />
+  <rect x="100px" y="0px" width="10" height="50" fill="#ff5555" />
   
-  <rect x="60px" y="60px" width="50" height="10" fill="black" />
-  <rect x="60px" y="80px" width="50" height="10" fill="black" />
-  <rect x="60px" y="100px" width="50" height="10" fill="black" />
+  <rect x="60px" y="60px" width="50" height="10" fill="#ff5555" />
+  <rect x="60px" y="80px" width="50" height="10" fill="#ff5555" />
+  <rect x="60px" y="100px" width="50" height="10" fill="#ff5555" />
   
-  <rect x="0px" y="60px" width="10" height="50" fill="black" />
-  <rect x="20px" y="60px" width="10" height="50" fill="black" />
-  <rect x="40px" y="60px" width="10" height="50" fill="black" />
+  <rect x="0px" y="60px" width="10" height="50" fill="#ff5555" />
+  <rect x="20px" y="60px" width="10" height="50" fill="#ff5555" />
+  <rect x="40px" y="60px" width="10" height="50" fill="#ff5555" />
 </svg>
