@@ -1,10 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-	<!-- border -->
-  <rect x="0px" y="0px" width="200" height="20" fill="#ff5555" />
-  <rect x="0px" y="0px" width="20" height="200" fill="#ff5555" />
-  <rect x="180px" y="0px" width="20" height="200" fill="#ff5555" />
-  <rect x="0px" y="180px" width="200" height="20" fill="#ff5555" />
-  
-  <!-- corner -->
-  <rect x="0px" y="0px" width="100" height="100" fill="#ff5555" />
+<svg xmlns="http://www.w3.org/2000/svg" height="200" width="200">
+	<polygon points="25 8 75 8 100 50 75 92 25 92 0 50" stroke="#50ffab" fill="transparent"stroke-width="15" />
 </svg>
